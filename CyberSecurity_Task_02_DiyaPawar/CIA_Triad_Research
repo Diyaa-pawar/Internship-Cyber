@@ -1,0 +1,71 @@
+Part A: CIA Triad Research
+
+1. Confidentiality
+Definition
+Confidentiality is the principle of protecting sensitive information from unauthorized access, disclosure, or misuse. It ensures that only authorized individuals, systems, or applications can view or access specific data.
+Why It Is Important
+Confidentiality is essential because organizations and individuals store large amounts of sensitive information such as personal details, financial records, medical information, and business secrets. If this information falls into the wrong hands, it can lead to identity theft, financial loss, reputational damage, and legal consequences.
+How Confidentiality Is Maintained
+•	Strong passwords
+•	Multi-Factor Authentication (MFA)
+•	Data encryption
+•	Access control policies
+•	User authentication systems
+Real-World Example
+Online banking systems maintain confidentiality by requiring users to log in with secure credentials and often an additional verification code. This prevents unauthorized individuals from accessing account information and financial transactions.
+Consequences of Loss of Confidentiality
+•	Data breaches
+•	Identity theft
+•	Financial fraud
+•	Loss of customer trust
+•	Legal penalties
+
+2. Integrity
+Definition
+Integrity refers to maintaining the accuracy, consistency, and reliability of data throughout its lifecycle. It ensures that information is not altered, modified, or deleted without proper authorization.
+Why It Is Important
+Organizations rely on accurate information to make decisions. If data is modified intentionally or accidentally, it can lead to incorrect decisions, financial losses, and operational disruptions. Maintaining integrity ensures that users can trust the information they receive.
+How Integrity Is Maintained
+•	Data validation techniques
+•	Digital signatures
+•	Hashing algorithms
+•	Access controls
+•	Audit logs and monitoring
+Real-World Example
+A college examination system must maintain integrity so that student marks cannot be changed by unauthorized users. Only authorized staff members should be able to update examination records.
+Consequences of Loss of Integrity
+•	Incorrect information
+•	Fraudulent modifications
+•	Loss of trust
+•	Poor decision-making
+•	Business disruptions
+
+3. Availability
+Definition
+Availability ensures that information, systems, and services are accessible to authorized users whenever they are needed. It focuses on keeping systems operational and minimizing downtime.
+Why It Is Important
+Even if data is confidential and accurate, it becomes useless if users cannot access it when required. Organizations depend on continuous access to their systems for daily operations, communication, and customer service.
+How Availability Is Maintained
+•	Regular system maintenance
+•	Data backups
+•	Disaster recovery planning
+•	Redundant systems
+•	Protection against cyber attacks such as DDoS attacks
+Real-World Example
+A college website must remain available during the admission process so that students can access forms, notices, and important information without interruption.
+Consequences of Loss of Availability
+•	Service interruptions
+•	Loss of productivity
+•	Financial losses
+•	Customer dissatisfaction
+•	Operational delays
+
+CIA Triad Comparison Table
+Component	Definition	Importance	Example	Security Controls
+Confidentiality	Protects information from unauthorized access	Keeps sensitive data private	Online Banking Login	Passwords, MFA, Encryption
+Integrity	Ensures data remains accurate and unchanged	Maintains trust and reliability	Examination Results System	Hashing, Digital Signatures, Audit Logs
+Availability	Ensures systems and data are accessible when needed	Supports continuous operations	College Website	Backups, Redundancy, Disaster Recovery
+
+Conclusion
+The CIA Triad—Confidentiality, Integrity, and Availability—is the foundation of cybersecurity. Confidentiality protects information from unauthorized access, Integrity ensures information remains accurate and trustworthy, and Availability guarantees that systems and data remain accessible when required. Together, these three principles help organizations secure their digital assets, protect users, and maintain reliable operations. Understanding the CIA Triad is essential for building effective cybersecurity strategies and managing modern security risks.
+
